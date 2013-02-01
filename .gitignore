@@ -1,0 +1,7 @@
+#Skip QT temp files
+*.user*
+
+#Skip invisible files
+.*
+
+!.gitignore
